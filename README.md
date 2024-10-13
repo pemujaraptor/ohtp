@@ -1,3 +1,5 @@
+#pemujaraptor
+
 1. pkg update && pkg upgrade 
 2. pkg install nodejs 
 3. pkg install yarn
