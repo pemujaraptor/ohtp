@@ -1,5 +1,5 @@
 $ pkg install nodejs
-$ yarn install
+$ pkg install yarn
 $ cd ohtp
 $ yarn add node
 $ node gas.js
