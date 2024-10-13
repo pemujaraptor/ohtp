@@ -1,8 +1,7 @@
-pkg update && pkg upgrade 
-pkg install nodejs 
-pkg install git 
-pkg install yarn
-git clone 
-cd ohtp
-yarn add node
-node gas.js
+1. pkg update && pkg upgrade 
+2. pkg install nodejs 
+3. pkg install yarn
+4. git clone 
+5. cd ohtp
+6. yarn add node
+7. node gas.js
