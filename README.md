@@ -1,4 +1,4 @@
-#pemujaraptor
+# pemujaraptor
 
 1. pkg update && pkg upgrade 
 2. pkg install nodejs 
